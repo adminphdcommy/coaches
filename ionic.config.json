@@ -1,0 +1,8 @@
+{
+  "name": "coaches",
+  "app_id": "4bf5b076",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
